@@ -39,3 +39,6 @@ create
     <h1>Create a New Product</h1>
 </body>
 </html>
+
+
+git remote add origin https://github.com/tuusuario/activity-6.git
