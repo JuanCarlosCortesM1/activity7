@@ -42,3 +42,5 @@ create
 
 
 git remote add origin https://github.com/tuusuario/activity-6.git
+git push -u origin master
+
